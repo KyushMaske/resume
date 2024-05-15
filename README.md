@@ -32,4 +32,4 @@ This project demonstrates how to build a machine learning model that classifies 
 
 To run streamlit app 
 
-streamlit run app.py
+`streamlit run app.py`
